@@ -1,2 +1,2 @@
-# React_Changing-Complex-State
+# React_Class-Components-vs.-Functional-Components
 Created with CodeSandbox
